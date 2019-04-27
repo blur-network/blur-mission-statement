@@ -24,7 +24,7 @@ Our network has been and will continue to be built with the intent of contributi
 
 Through methodical testing of existing solutions, and the free expression of fact-based conclusions, our network views humans as champions of knowledge and truth. However, we also recognize humans as prideful, emotion-driven beings, that frequently work against these virtues (to benefit the self, at the cost of the collective). Therefore, it is our firm belief that without technology, humans are unfortunately without the means to ensure that information is not distorted. Individuals must have a means to share their views, and experiences, no matter how significant or insignificant, without being unduly influenced by external forces. Our network is an attempt at contributing to this technological goal, and protecting the human right to privacy.
 
-###Got a question, comment or concern?
+### Got a question, comment or concern?
 
 
 We enjoy discussing the role of cryptocurrency in our evolving technological world… almost as much as our civil liberties. We encourage open dialogue between citizens and policy-makers. If you have questions or concerns which are not answered within this document, or if you simply wish to open a dialogue, please reach out by sending an e-mail to contact@blur.cash.
