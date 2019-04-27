@@ -1,7 +1,7 @@
 # Statement of Purpose & Core Values
 
 
-The Blur Network’s core values center upon truth and freedom. Our network and community  are intended to be educational, and for the primary benefit of the public through technologic advancement. We strive to create environments that support the freedom of an individual to pursue truth, to develop hypotheses, and to test their theories with practical application of science and experimentation.
+The Blur Network’s core values center upon truth and freedom. Our network and community  are intended to be educational, and for the primary benefit of the public through technological advancement. We strive to create environments that support the freedom of an individual to pursue truth, to develop hypotheses, and to test their theories with practical application of science and experimentation.
 
 Privacy is a critical necessity for individuals who seek to ask questions, and arrive at their own conclusions. It is even more important for those who wish to share their findings. In a world dominated by privacy-compromising technology, our network believes society has become dangerously comfortable with an unnecessary trade-off — between connecting with the world, and protecting oneself.
 
