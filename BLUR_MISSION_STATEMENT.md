@@ -7,7 +7,7 @@ Privacy is a critical necessity for individuals who seek to ask questions, and a
 
 Our network and community value public discourse between developers & community members, and allowing free expression by all who choose to productively make their voice heard. The Blur Network seeks to contribute to a better “truth” for tomorrow, by improving technology today.
 
-The Blur Network considers its core values to be embodied by: free (as in freedom) and open-source software, application-based co-education, and unilateral transparency. Above all else, it is our belief that the freedom to compete and share ideas is the most important driver behind progress.
+The Blur Network considers its core values to be embodied by: free (as in freedom) and open-source software, application-based co-education, and multi-lateral transparency. Above all else, it is our belief that the freedom to compete and share ideas is the most important driver behind progress.
 
 ## Regulatory Compliance and Perspective on Policy
 
